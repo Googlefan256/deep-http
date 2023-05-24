@@ -1,0 +1,19 @@
+{
+  "name": "deep-http",
+  "version": "0.1.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Googlefan256 <contact@googlefan.net> (https://googlefan.net/)",
+  "license": "MIT",
+  "dependencies": {
+    "deep-http-client": "^0.0.7",
+    "tough-cookie": "^4.1.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/tough-cookie": "^4.0.2",
+    "typescript": "^5.0.4"
+  }
+}
