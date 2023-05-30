@@ -24,10 +24,10 @@ combined-stream@^1.0.8:
   dependencies:
     delayed-stream "~1.0.0"
 
-deep-http-client@0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/deep-http-client/-/deep-http-client-0.0.9.tgz#5db5be6331c9f72ebc96f089af1e23b39ab93bda"
-  integrity sha512-LDwfv6e/SjqubPlV/PwusybkKZxgOz7IZbVHeXX2Buc24yzh6Tl14n434S85Lg19pAXHq0LdAjAqzWbwbI8V2A==
+deep-http-client@0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/deep-http-client/-/deep-http-client-0.0.10.tgz#1bfaa78805259a617b9a15db923d2e485d2b0c3f"
+  integrity sha512-xVhediN19Nj/LOFO13OnHrdOLWBUX84mM1UN3l0hdCf6ttzFeLHEtld4LIMlYAI5QGo4DEjyGHc3W+AAemk7iA==
 
 delayed-stream@~1.0.0:
   version "1.0.0"
